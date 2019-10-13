@@ -26,7 +26,7 @@
                   <v-card-actions>
                     <v-btn
                       text
-                      color="blue accent-4"
+                      color="black accent-4"
                       :href="project.url"
                       target="_blank"
                     >Go to sites</v-btn>
