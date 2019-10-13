@@ -63,14 +63,14 @@ export default {
         name: "Marvel Finder",
         description:
           "Using Marvel Public API, we have a simple character finder application, with character descriptions and some comics where the character appears",
-        screenshot: "/images/marvelfinder.png",
+        screenshot: "/images/marvelfinder.PNG",
         url: "https://marvelfinder.noe-ocanas.site"
       },
       {
         name: "Super Awesome App",
         description:
           " The coolest and better social Network ever created (by me)",
-        screenshot: "/images/super-awesome-app.png",
+        screenshot: "/images/super-awesome-app.PNG",
         url: "https://superawesomeapp.noe-ocanas.site"
       }
     ]
